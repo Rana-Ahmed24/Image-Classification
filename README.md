@@ -1,6 +1,3 @@
-Here’s a full `README.md` file incorporating your classification section and other important details:  
-
-```markdown
 # Waste Classification System
 
 ## Overview
